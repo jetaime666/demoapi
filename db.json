@@ -1,14 +1,7 @@
 {
-  "offerwall": [
-    {
-      "offers": [
-        {
-          "id": 61,
-          "store_id": "",
-          "landing_page": "https://www.external-campaign.com/redirect?sub1={click_id}",
-          "icon": "https://d1vurj8zt1ctkj.cloudfront.net/custom_icon/5e8f02f3f11bf-61.png"
-        }
-      ]
-    }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ]
 }
