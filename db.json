@@ -3,13 +3,13 @@
   "data": [
     {
       "wall": {
-        "id": 10240,
-        "app_id": 17768,
+        "id": 1,
+        "app_id": 1,
         "title": null,
-        "hex": "26252E",
+        "hex": "zkld",
         "header_image": null,
-        "currency_name_singular": "CalmCoins",
-        "currency_name_plural": "CalmCoins",
+        "currency_name_singular": "points",
+        "currency_name_plural": "points",
         "currency_image": "https://cdn.adgem.com/gem.png",
         "multiplier": 4000,
         "offer_filter_setting": "all_offers",
