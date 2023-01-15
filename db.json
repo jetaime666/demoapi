@@ -1,25 +1,6 @@
 {
   "offerwall": [
     {
-      "status": "success",
-      "num_offers": 6,
-      "filters": {
-        "make": "Samsung",
-        "model": "GALAXY S10",
-        "os": "Android",
-        "os_version": "10.1.0",
-        "ip": "79.213.245.101",
-        "platform": "android",
-        "offer_sorting": "ecpm",
-        "minimum_payout": 0,
-        "num_offers": 10
-      },
-      "offerwall": {
-        "name": "oapi2",
-        "currency_name_singular": "Coin",
-        "currency_name_plural": "Coins",
-        "currency_sale": false
-      },
       "offers": [
         {
           "id": 61,
@@ -28,20 +9,6 @@
           "icon": "https://d1vurj8zt1ctkj.cloudfront.net/custom_icon/5e8f02f3f11bf-61.png",
           "name": "Engagement Test Campaign",
           "description": "Earn 697 Coins by completing the following task:",
-          "tags": {
-            "tab": "tasks"
-          },
-          "icon_large": "",
-          "video_url": "",
-          "platform": "web",
-          "platforms": [
-            "android",
-            "ios"
-          ],
-          "devices": [
-            "phone",
-            "tablet"
-          ],
           "category": "incent",
           "conversion_type": "cpe",
           "conversion_time": 300,
@@ -95,13 +62,7 @@
               "completed": false,
               "percentage": 0
             }
-          ],
-          "cpe_total_rewards_currency_name": "Coins",
-          "cpe_progressbar_percentage": "5",
-          "payout": 697,
-          "payout_base": 0,
-          "payout_name": "697 Coins",
-          "button_text": "+697"
+          ]
         }
       ]
     }
