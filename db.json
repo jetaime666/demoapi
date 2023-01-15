@@ -2974,16 +2974,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 14400,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16223,
@@ -3000,16 +2991,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 5280,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16411,
@@ -3026,16 +3008,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 4276,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17005,
@@ -3052,16 +3025,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2400,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 14125,
@@ -3078,16 +3042,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 19200,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 15680,
@@ -3104,16 +3059,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2520,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 15923,
@@ -3131,15 +3077,6 @@
           "category_2": "paid",
           "amount": 36000,
           "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
         },
         {
           "campaign_id": 15942,
@@ -3156,16 +3093,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 15600,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 14666,
@@ -3182,16 +3110,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 14400,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 14951,
@@ -3208,16 +3127,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1608,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": "4.1",
-            "max_android": null
-          }
+          "render_sticker": false
         }
       ]
     }
