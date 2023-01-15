@@ -18,16 +18,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 4800,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 3131,
@@ -44,16 +35,7 @@
           "category_1": "survey",
           "category_2": null,
           "amount": 40000,
-          "render_sticker": true,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          },
+          "render_sticker": true
           "offer_sticker_text_1": "EASY SURVEY",
           "offer_sticker_text_2": null,
           "offer_sticker_text_3": null,
@@ -76,16 +58,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1680,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": "4.1",
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 13629,
@@ -102,16 +75,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 840,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18457,
@@ -128,16 +92,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2040,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18128,
@@ -154,16 +109,7 @@
           "category_1": "survey",
           "category_2": "free",
           "amount": 40,
-          "render_sticker": true,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          },
+          "render_sticker": true
           "offer_sticker_text_1": "Easy",
           "offer_sticker_text_2": null,
           "offer_sticker_text_3": null,
@@ -186,16 +132,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 158400,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 19346,
@@ -212,16 +149,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 16800,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 13732,
@@ -238,16 +166,7 @@
           "category_1": "app",
           "category_2": "paid",
           "amount": 120000,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 13733,
@@ -264,16 +183,7 @@
           "category_1": "app",
           "category_2": "paid",
           "amount": 84000,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16230,
@@ -290,16 +200,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 3720,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17072,
@@ -316,16 +217,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 28800,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 3564,
@@ -342,16 +234,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 7200,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": "7.0",
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18340,
@@ -368,16 +251,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 15600,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17953,
@@ -394,16 +268,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1728,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 3534,
@@ -420,16 +285,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 13200,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16923,
@@ -446,16 +302,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1920,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16290,
@@ -472,16 +319,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 48000,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 15469,
@@ -498,16 +336,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1320,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": "6.0",
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 5204,
@@ -524,16 +353,7 @@
           "category_1": "app",
           "category_2": "paid",
           "amount": 120000,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17593,
@@ -550,16 +370,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 9600,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16944,
@@ -576,16 +387,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 15600,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17097,
@@ -602,16 +404,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1440,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 10500,
@@ -628,16 +421,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2376,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 5583,
@@ -654,16 +438,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 432,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 11602,
@@ -680,16 +455,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 10800,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16260,
@@ -706,16 +472,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1560,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 19132,
@@ -732,16 +489,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 14400,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 19130,
@@ -758,16 +506,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 15600,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18364,
@@ -784,16 +523,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 4200,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 12612,
@@ -810,16 +540,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 16800,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17343,
@@ -836,16 +557,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 3600,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18980,
@@ -862,16 +574,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 14400,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17321,
@@ -888,16 +591,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 792,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16110,
@@ -914,16 +608,7 @@
           "category_1": "free",
           "category_2": "trial",
           "amount": 7560,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16998,
@@ -940,16 +625,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2880,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 11118,
@@ -966,16 +642,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1560,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17869,
@@ -992,16 +659,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1752,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 15836,
@@ -1018,16 +676,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 18000,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18549,
@@ -1044,16 +693,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 3120,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17358,
@@ -1070,16 +710,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 5760,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 15343,
@@ -1096,16 +727,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2400,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16588,
@@ -1122,16 +744,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2880,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18001,
@@ -1148,16 +761,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 6000,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": "13.0",
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 15350,
@@ -1174,16 +778,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 4680,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18169,
@@ -1200,16 +795,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 168,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 7710,
@@ -1226,16 +812,7 @@
           "category_1": "trial",
           "category_2": null,
           "amount": 5760,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18850,
@@ -1252,16 +829,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 15600,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 12104,
@@ -1278,16 +846,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1632,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": "5.0",
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18590,
@@ -1304,16 +863,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1200,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 10578,
@@ -1330,16 +880,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1608,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 7712,
@@ -1356,16 +897,7 @@
           "category_1": "trial",
           "category_2": null,
           "amount": 5760,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 11017,
@@ -1382,16 +914,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 360,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16642,
@@ -1408,16 +931,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 3120,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 10957,
@@ -1434,16 +948,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2040,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18397,
@@ -1460,16 +965,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 9600,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17780,
@@ -1486,16 +982,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 10800,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16164,
@@ -1512,16 +999,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 24000,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18334,
@@ -1538,16 +1016,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 4800,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": "10.0",
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18593,
@@ -1564,16 +1033,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 3120,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": "8.0",
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17322,
@@ -1590,16 +1050,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 960,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 4364,
@@ -1616,16 +1067,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 192,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17260,
@@ -1642,16 +1084,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 552,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18699,
@@ -1668,16 +1101,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1920,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18415,
@@ -1694,16 +1118,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 10800,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16609,
@@ -1720,16 +1135,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2880,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18026,
@@ -1746,16 +1152,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 6240,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18455,
@@ -1772,16 +1169,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 48000,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 8559,
@@ -1798,16 +1186,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 12000,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": "8.1",
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 4998,
@@ -1824,16 +1203,7 @@
           "category_1": "survey",
           "category_2": null,
           "amount": 1920,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17864,
@@ -1850,16 +1220,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 840,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18719,
@@ -1876,16 +1237,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1800,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16205,
@@ -1902,16 +1254,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2448,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18454,
@@ -1928,16 +1271,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 48000,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 15152,
@@ -1954,15 +1288,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1200,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
+          "render_sticker": false"max_android": null
           }
         },
         {
@@ -1980,16 +1306,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1200,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18451,
@@ -2006,16 +1323,7 @@
           "category_1": null,
           "category_2": null,
           "amount": 48000,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16559,
@@ -2032,16 +1340,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2400,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18207,
@@ -2058,16 +1357,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 960,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 18448,
@@ -2084,16 +1374,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 48000,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 15118,
@@ -2110,16 +1391,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2400,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16558,
@@ -2136,16 +1408,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2400,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 4368,
@@ -2162,16 +1425,7 @@
           "category_1": null,
           "category_2": "survey",
           "amount": 40000,
-          "render_sticker": true,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          },
+          "render_sticker": true
           "offer_sticker_text_1": "NEW SURVEY",
           "offer_sticker_text_2": null,
           "offer_sticker_text_3": null,
@@ -2194,16 +1448,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 480,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 8757,
@@ -2220,16 +1465,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 6720,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 8742,
@@ -2246,16 +1482,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 7200,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 8506,
@@ -2272,16 +1499,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 1680,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": "10.0",
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 10318,
@@ -2298,16 +1516,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 7200,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": "8.0",
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 9089,
@@ -2324,16 +1533,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2928,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": "1.0",
-            "max_ios": "14.4",
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 9260,
@@ -2350,16 +1550,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 12000,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17268,
@@ -2376,16 +1567,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 19200,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16447,
@@ -2402,16 +1584,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 4440,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": false,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 17420,
@@ -2428,16 +1601,7 @@
           "category_1": "free",
           "category_2": "survey",
           "amount": 2400,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 11294,
@@ -2454,16 +1618,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 2424,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": "10",
-            "max_ios": "14.4",
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 16209,
@@ -2480,16 +1635,7 @@
           "category_1": "app",
           "category_2": "free",
           "amount": 3456,
-          "render_sticker": false,
-          "OS": {
-            "android": false,
-            "ios": true,
-            "web": false,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 14673,
@@ -2506,16 +1652,7 @@
           "category_1": "free",
           "category_2": "trial",
           "amount": 7920,
-          "render_sticker": false,
-          "OS": {
-            "android": true,
-            "ios": true,
-            "web": true,
-            "min_ios": null,
-            "max_ios": null,
-            "min_android": null,
-            "max_android": null
-          }
+          "render_sticker": false
         },
         {
           "campaign_id": 2296,
